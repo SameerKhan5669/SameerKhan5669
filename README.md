@@ -12,9 +12,12 @@
 
 ### Would love to stay connected
 
-<img align="left"  alt="Website" width="22px" src="https://sameerk.ca" />[website]
-<img align="left" alt="Resume" width="22px" src="https://sameerk.ca/#/resume" />[resume]
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<img align="left"  alt="Website" width="22px" src="https://sameerk.ca" /> Website
+<img align="left" alt="Resume" width="22px" src="https://sameerk.ca/#/resume" />Resume
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin
+
+<br />
+<br />
 
 ### My Skills
 
