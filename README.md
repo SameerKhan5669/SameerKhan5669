@@ -4,8 +4,8 @@
 
 - 3️⃣ I'm curently in my third year of study at University of Waterloo
 - 👀 I’m currently looking for Fall 2021 Internships
-- 🌨 This winter I Worked at [Taplytics][taplytics] (YC 2014)
-- 💻 In the past I've worked at [Halp][halp] and [Royaltymine][royaltymine]
+- 🌨 This winter I Worked at [Taplytics](https://taplytics.com/) (YC 2014)
+- 💻 In the past I've worked at [Halp](https://halp.co/) and [Royaltymine](https://royaltymine.com/)
 - 📈 I love learning about and trading stocks
 
 <br />
