@@ -2,8 +2,8 @@
 
 ## I'm a Developer, Student, Trader, and Life-Long Learner!!
 
-- 3️⃣   I'm curently in my third year of study at University of Waterloo
-- 👀   I’m currently looking for Fall 2021 Internships
+- 3️⃣ &nbsp; I'm curently in my third year of study at University of Waterloo
+- 👀 &nbsp; I’m currently looking for Fall 2021 Internships
 - 🌨   This winter I Worked at [Taplytics](https://taplytics.com/) (YC 2014)
 - 💻   In the past I've worked at [Halp](https://halp.co/) and [Royaltymine](https://royaltymine.com/)
 - 📈   I love learning about and trading stocks, Ive created a [Day-Trading Guide](https://sameerk.ca/#/stocks)
